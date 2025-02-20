@@ -63,7 +63,7 @@ The integration of artificial intelligence (AI) and predictive modeling in netwo
 This adaptability is crucial in today’s evolving digital landscape, where cybercriminals continually develop sophisticated attack methods to bypass conventional defenses.One of the key advantages of the proposed system is its ability to analyze large volumes of network traffic data in real-time.
 By leveraging machine learning techniques such as deep learning, the system can efficiently detect anomalies, intrusions, and potential cyberattacks.
 
-## Articles published / References
+## References
 
 [1]. Najafabadi MM, Villanustre F, Khoshgoftaar TM, Seliya N, Wald R, and Muharemagic E. investigated the uses and obstacles of deep learning in the context of big data analytics. Their research was published in the Journal of Big Data in 2015, volume 2, issue 1, article 1. The publication is available at the following DOI: https://doi.org/10.1186/s40537-014-0007-7.
 [2]. Dong B, Wang X. A comparative analysis of deep learning techniques versus traditional methods for network intrusion detection. Paper presented at: Proceedings of the 8th IEEE International Conference on Communication Software and Networks (ICCSN). Beijing, China: IEEE.
